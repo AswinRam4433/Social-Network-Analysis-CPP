@@ -21,3 +21,27 @@ Graphs can be used to represent the relationship between multiple entities. We c
   <li>Count the number of followers</li>
 </ul>
 <hr>
+<h3>Modules To Be Implemented By Each Member</h3>
+<table>
+  <tr>
+    <th>S.No</th>
+    <th>Team Member</th>
+    <th>Module Assigned</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Aswin Ramanathan</td>
+    <td>Single Source Shortest Path, Scraping, Recommendation System</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Kishore Prashanth P</td>
+    <td>Dijkstra’s Algorithm, Node Design, Recommendation System</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Nikhil Sai V</td>
+    <td>User Statistics, Mutual Followers Count, Recommendation System</td>
+  </tr>
+  </table>
+  <hr>
