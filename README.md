@@ -31,12 +31,12 @@ Graphs can be used to represent the relationship between multiple entities. We c
   <tr>
     <td>1</td>
     <td>Aswin Ramanathan</td>
-    <td>Single Source Shortest Path, Scraping, Recommendation System</td>
+    <td>Dijkstra’s Algorithm, Scraping, Recommendation System</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Kishore Prashanth P</td>
-    <td>Dijkstra’s Algorithm, Node Design, Recommendation System</td>
+    <td>File Implementation, Node Design, Recommendation System</td>
   </tr>
   <tr>
     <td>3</td>
